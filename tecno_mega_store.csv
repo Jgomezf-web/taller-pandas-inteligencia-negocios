@@ -1,0 +1,101 @@
+,Fecha,Cliente,Region,Tipo_Cliente,Canal,Producto,Categoria,Precio_Unitario,Costo_Unitario,Cantidad
+0,2024-08-24,Luis Rios,Sierra,Consumidor Final,Mayorista,Xiaomi Redmi Note 12,Celulares,259.0,176.92,3
+1,2024-05-08,Importadora Salazar Global,Sierra,Corporativo,Televentas,Memoria USB 64GB SanDisk,Almacenamiento,11.0,7.76,16
+2,2024-02-26,Paola Naranjo,Costa,Consumidor Final,Televentas,Smartwatch Amazfit Bip 5,Wearables,69.0,47.23,2
+3,2025-02-11,Comercial Macias del Litoral,Oriente,Mayorista,Televentas,PC Escritorio Asus M700,Computadoras,615.0,424.9,20
+4,2024-12-10,Miguel Rios,Oriente,Consumidor Final,Televentas,Disco Externo 2TB Seagate,Almacenamiento,79.0,51.44,3
+5,2024-11-13,Distribuidora Cabrera del Litoral,Costa,Corporativo,Tienda Fisica,Audifonos Sony WH-1000,Audio,299.0,180.72,13
+6,2025-04-24,Paola Naranjo,Costa,Consumidor Final,Televentas,PC Escritorio Asus M700,Computadoras,615.0,431.18,3
+7,2024-02-08,Paola Pena,Sierra,Minorista,Venta Online,Xiaomi Redmi Note 12,Celulares,259.0,157.89,6
+8,2025-03-28,Fernando Chavez,Sierra,Consumidor Final,Tienda Fisica,Monitor LG 24 pulg IPS,Perifericos,159.0,121.19,2
+9,2024-05-17,Elena Vera,Oriente,Minorista,Televentas,Motorola Moto G53,Celulares,199.0,127.88,3
+10,2024-09-20,Importadora Rios Global,Costa,Corporativo,Distribuidor,Router TP-Link Archer C6,Redes,45.0,28.85,7
+11,2024-12-01,Pedro Ponce,Sierra,Consumidor Final,Mayorista,TV Sony 43 pulg Full HD,Televisores,329.0,212.7,2
+12,2025-03-10,Roberto Bravo,Sierra,Consumidor Final,Venta Online,Power Bank 20000mAh,Accesorios,29.0,19.33,3
+13,2024-04-20,Diego Zambrano,Sierra,Minorista,Televentas,Audifonos Bluetooth QCY,Audio,35.0,23.05,5
+14,2025-01-24,Pedro Ponce,Sierra,Consumidor Final,Televentas,Laptop Lenovo IdeaPad 3,Computadoras,699.0,390.95,1
+15,2024-12-19,Carlos Moreira,Sierra,Consumidor Final,Venta Online,Switch 8 Puertos TP-Link,Redes,27.0,17.45,2
+16,2024-11-04,Importadora Salazar Global,Sierra,Corporativo,Distribuidor,Laptop Lenovo IdeaPad 3,Computadoras,699.0,394.24,8
+17,2025-06-08,Lucia Pena,Oriente,Consumidor Final,Venta Online,Laptop Lenovo IdeaPad 3,Computadoras,699.0,433.59,3
+18,2024-06-22,Distribuidora Cabrera del Litoral,Costa,Corporativo,Distribuidor,TV Sony 43 pulg Full HD,Televisores,329.0,216.61,15
+19,2025-04-06,Daniela Guerrero,Sierra,Consumidor Final,Distribuidor,Mouse Logitech M170,Accesorios,12.5,8.49,1
+20,2024-06-22,Diego Zambrano,Sierra,Minorista,Distribuidor,Cable HDMI 2.0 (2m),Accesorios,8.5,6.5,3
+21,2024-05-17,Importadora Salazar Global,Sierra,Corporativo,Mayorista,Repetidor WiFi Tenda,Redes,24.0,17.64,20
+22,2024-12-19,Comercial Macias del Litoral,Oriente,Mayorista,Televentas,Cable HDMI 2.0 (2m),Accesorios,8.5,6.4,12
+23,2024-04-02,MegaTienda Naranjo Pacifico,Oriente,Mayorista,Mayorista,Monitor LG 24 pulg IPS,Perifericos,159.0,117.31,34
+24,2025-06-08,Sofia Garcia,Sierra,Minorista,Distribuidor,Disco SSD 1TB Kingston,Almacenamiento,89.0,68.38,2
+25,2024-04-29,Carlos Zambrano,Sierra,Minorista,Distribuidor,Router TP-Link Archer C6,Redes,45.0,33.76,6
+26,2024-03-06,Corporacion Ponce Global,Sierra,Mayorista,Distribuidor,Samsung Galaxy S23,Celulares,849.0,489.28,11
+27,2024-01-03,Lucia Pena,Oriente,Consumidor Final,Tienda Fisica,Laptop HP 250 G9,Computadoras,749.0,441.01,3
+28,2025-05-30,Javier Zambrano,Sierra,Consumidor Final,Televentas,Audifonos Sony WH-1000,Audio,299.0,176.98,2
+29,2024-09-29,Almacenes Salazar del Rio,Costa,Corporativo,Tienda Fisica,Audifonos Sony WH-1000,Audio,299.0,200.3,12
+30,2024-04-29,Maria Chavez,Costa,Consumidor Final,Tienda Fisica,Cable HDMI 2.0 (2m),Accesorios,8.5,5.4,2
+31,2024-09-02,Fernando Ponce,Oriente,Minorista,Tienda Fisica,Audifonos Sony WH-1000,Audio,299.0,171.63,7
+32,2025-03-01,Distribuidora Loor S.A.,Sierra,Mayorista,Distribuidor,Motorola Moto G53,Celulares,199.0,126.25,20
+33,2024-03-06,Lucia Mendoza,Costa,Minorista,Mayorista,Mouse Logitech M170,Accesorios,12.5,9.34,4
+34,2024-08-24,Daniela Rios,Costa,Minorista,Mayorista,Memoria RAM 8GB DDR4,Almacenamiento,32.0,21.4,3
+35,2025-02-11,Carmen Guerrero,Costa,Consumidor Final,Distribuidor,TV Samsung 55 pulg QLED,Televisores,649.0,416.86,2
+36,2024-12-10,Sofia Zambrano,Costa,Minorista,Venta Online,Cable HDMI 2.0 (2m),Accesorios,8.5,5.51,6
+37,2025-03-01,Pedro Chavez,Oriente,Consumidor Final,Tienda Fisica,Memoria RAM 8GB DDR4,Almacenamiento,32.0,21.94,2
+38,2024-02-08,Fernando Chavez,Sierra,Consumidor Final,Distribuidor,Camara de Seguridad WiFi,Redes,39.0,22.56,1
+39,2024-08-06,Importadora Salazar Global,Sierra,Corporativo,Mayorista,Webcam HD 1080p,Accesorios,28.0,20.99,14
+40,2024-05-17,MegaTienda Naranjo Pacifico,Oriente,Mayorista,Distribuidor,Motorola Moto G53,Celulares,199.0,125.49,14
+41,2024-10-08,Roberto Pena,Sierra,Minorista,Televentas,Tablet Samsung Tab A9,Tablets,219.0,152.01,8
+42,2024-02-17,MegaTienda Naranjo Pacifico,Oriente,Mayorista,Venta Online,Laptop HP 250 G9,Computadoras,749.0,511.57,24
+43,2024-07-28,Grupo Chavez Global,Costa,Mayorista,Tienda Fisica,Parlante JBL Flip 6,Audio,129.0,83.45,40
+44,2025-04-06,Gabriela Naranjo,Costa,Minorista,Tienda Fisica,Webcam HD 1080p,Accesorios,28.0,18.51,2
+45,2024-09-20,Fernando Ponce,Oriente,Minorista,Tienda Fisica,Monitor LG 24 pulg IPS,Perifericos,159.0,108.22,2
+46,2025-04-24,Electro Naranjo Digital,Oriente,Corporativo,Venta Online,Laptop HP 250 G9,Computadoras,749.0,539.36,20
+47,2024-03-24,Sofia Moreira,Sierra,Consumidor Final,Distribuidor,Power Bank 20000mAh,Accesorios,29.0,16.72,2
+48,2025-04-06,Carmen Rios,Costa,Minorista,Mayorista,Laptop Lenovo IdeaPad 3,Computadoras,699.0,454.07,3
+49,2024-02-08,Sofia Mendoza,Costa,Consumidor Final,Televentas,Laptop HP 250 G9,Computadoras,749.0,421.61,2
+50,2024-04-11,Maria Naranjo,Costa,Minorista,Distribuidor,Smartwatch Amazfit Bip 5,Wearables,69.0,50.45,3
+51,2025-04-24,Fernando Garcia,Oriente,Consumidor Final,Mayorista,iPhone 14 128GB,Celulares,899.0,622.83,3
+52,2024-12-10,Gabriela Guerrero,Sierra,Consumidor Final,Venta Online,Audifonos Sony WH-1000,Audio,299.0,179.22,2
+53,2025-05-21,Ana Moreira,Costa,Consumidor Final,Venta Online,Memoria USB 64GB SanDisk,Almacenamiento,11.0,7.46,3
+54,2025-02-02,Lucia Guerrero,Sierra,Consumidor Final,Tienda Fisica,Webcam HD 1080p,Accesorios,28.0,20.4,1
+55,2024-12-28,Suministros Mendoza Express,Costa,Corporativo,Venta Online,Motorola Moto G53,Celulares,199.0,130.56,20
+56,2024-04-11,Comercial Alvarado del Litoral,Oriente,Corporativo,Mayorista,Samsung Galaxy S23,Celulares,849.0,563.14,25
+57,2024-03-06,Luis Vasquez,Sierra,Consumidor Final,Televentas,Teclado Mecanico Redragon,Accesorios,45.0,33.82,2
+58,2024-11-13,Daniela Guerrero,Sierra,Consumidor Final,Venta Online,iPhone 14 128GB,Celulares,899.0,675.42,1
+59,2024-12-19,Gabriela Alvarado,Sierra,Minorista,Tienda Fisica,Cable HDMI 2.0 (2m),Accesorios,8.5,6.07,3
+60,2024-03-24,Pedro Ponce,Sierra,Consumidor Final,Televentas,Router TP-Link Archer C6,Redes,45.0,35.01,2
+61,2025-02-20,Ana Vasquez,Oriente,Consumidor Final,Televentas,Audifonos Sony WH-1000,Audio,299.0,181.16,2
+62,2024-04-29,Elena Bravo,Costa,Minorista,Tienda Fisica,Laptop Dell Inspiron 15,Computadoras,829.0,571.26,7
+63,2024-01-21,Carlos Naranjo,Sierra,Minorista,Venta Online,Memoria RAM 8GB DDR4,Almacenamiento,32.0,22.21,2
+64,2024-05-08,Almacenes Pena Cia. Ltda.,Sierra,Mayorista,Tienda Fisica,Impresora Epson L3250,Perifericos,229.0,139.62,30
+65,2024-12-10,Lucia Cabrera,Sierra,Consumidor Final,Tienda Fisica,TV Sony 43 pulg Full HD,Televisores,329.0,193.95,1
+66,2024-03-15,Diego Mendoza,Costa,Consumidor Final,Distribuidor,Motorola Moto G53,Celulares,199.0,119.1,3
+67,2024-09-29,Corporacion Garcia Cia. Ltda.,Sierra,Mayorista,Venta Online,TV LG 50 pulg 4K UHD,Televisores,479.0,281.32,21
+68,2025-05-30,Jorge Ortiz,Sierra,Minorista,Mayorista,Xiaomi Redmi Note 12,Celulares,259.0,171.48,8
+69,2024-06-22,Sofia Zambrano,Costa,Minorista,Tienda Fisica,Audifonos Sony WH-1000,Audio,299.0,232.5,4
+70,2024-06-13,Suministros Pena Digital,Costa,Mayorista,Tienda Fisica,Router TP-Link Archer C6,Redes,45.0,34.21,34
+71,2024-04-20,Ana Moreira,Costa,Consumidor Final,Tienda Fisica,Cable HDMI 2.0 (2m),Accesorios,8.5,5.74,2
+72,2024-09-11,Lucia Pena,Oriente,Consumidor Final,Venta Online,Motorola Moto G53,Celulares,199.0,126.15,1
+73,2024-07-10,Elena Bravo,Costa,Minorista,Venta Online,Switch 8 Puertos TP-Link,Redes,27.0,16.7,4
+74,2024-04-11,Fernando Ponce,Oriente,Minorista,Mayorista,Barra de Sonido LG S40,Audio,219.0,125.86,3
+75,2024-07-28,Corporacion Moreira del Litoral,Costa,Mayorista,Tienda Fisica,Audifonos Bluetooth QCY,Audio,35.0,25.24,30
+76,2025-04-15,Fernando Garcia,Oriente,Consumidor Final,Distribuidor,TV Samsung 55 pulg QLED,Televisores,649.0,481.36,3
+77,2024-06-04,Valeria Guerrero,Sierra,Minorista,Distribuidor,Tablet Samsung Tab A9,Tablets,219.0,136.22,3
+78,2025-01-15,Paola Naranjo,Costa,Consumidor Final,Tienda Fisica,Cable HDMI 2.0 (2m),Accesorios,8.5,6.57,3
+79,2024-04-29,Comercial Bravo Express,Sierra,Corporativo,Venta Online,Laptop HP 250 G9,Computadoras,749.0,430.0,13
+80,2024-10-08,Maria Naranjo,Costa,Minorista,Tienda Fisica,TV LG 50 pulg 4K UHD,Televisores,479.0,363.32,2
+81,2025-03-10,Importadora Salazar S.A.,Sierra,Corporativo,Distribuidor,Cargador USB-C 65W,Accesorios,22.0,16.37,6
+82,2025-04-06,Carlos Alvarado,Costa,Minorista,Tienda Fisica,Teclado Mecanico Redragon,Accesorios,45.0,33.51,8
+83,2025-04-24,Paola Pena,Sierra,Minorista,Distribuidor,Teclado Mecanico Redragon,Accesorios,45.0,29.48,5
+84,2024-01-12,Suministros Pena Digital,Costa,Mayorista,Distribuidor,Parlante JBL Flip 6,Audio,129.0,87.84,37
+85,2025-01-06,Carlos Zambrano,Sierra,Minorista,Televentas,Mouse Logitech M170,Accesorios,12.5,8.55,7
+86,2024-01-30,Daniela Rios,Costa,Minorista,Tienda Fisica,TV LG 50 pulg 4K UHD,Televisores,479.0,268.19,7
+87,2024-02-08,Electro Garcia Pacifico,Oriente,Corporativo,Venta Online,Power Bank 20000mAh,Accesorios,29.0,15.98,11
+88,2024-10-08,Distribuidora Cabrera del Litoral,Costa,Corporativo,Mayorista,Audifonos Bluetooth QCY,Audio,35.0,23.95,19
+89,2024-11-22,Almacenes Salazar del Rio,Costa,Corporativo,Televentas,Cargador USB-C 65W,Accesorios,22.0,15.11,14
+90,2025-04-15,Luis Rios,Sierra,Consumidor Final,Tienda Fisica,iPhone 14 128GB,Celulares,899.0,527.35,1
+91,2024-06-04,Javier Vera,Costa,Consumidor Final,Venta Online,Power Bank 20000mAh,Accesorios,29.0,21.36,3
+92,2025-03-19,Electro Macias Cia. Ltda.,Oriente,Corporativo,Tienda Fisica,Samsung Galaxy A54,Celulares,389.0,267.94,6
+93,2025-03-19,Roberto Pena,Sierra,Minorista,Tienda Fisica,Teclado Mecanico Redragon,Accesorios,45.0,32.19,8
+94,2025-02-02,Sofia Ortiz,Oriente,Consumidor Final,Mayorista,TV Sony 43 pulg Full HD,Televisores,329.0,256.03,3
+95,2024-01-30,Carlos Moreira,Sierra,Consumidor Final,Mayorista,Mouse Logitech M170,Accesorios,12.5,9.43,1
+96,2024-07-10,Importadora Rios Global,Costa,Corporativo,Tienda Fisica,Router TP-Link Archer C6,Redes,45.0,26.78,22
+97,2025-03-10,Gabriela Naranjo,Costa,Minorista,Distribuidor,Repetidor WiFi Tenda,Redes,24.0,18.66,6
+98,2024-02-17,Jorge Moreira,Costa,Consumidor Final,Distribuidor,Teclado Mecanico Redragon,Accesorios,45.0,33.3,3
+99,2024-11-13,Electro Macias Cia. Ltda.,Oriente,Corporativo,Distribuidor,Parlante JBL Flip 6,Audio,129.0,81.44,21
